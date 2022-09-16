@@ -1,0 +1,4 @@
+- Lab01: Introduce a new activation, the Rectified Linear Unit (ReLU). 
+- Lab02: Explore an example of multi-class classification using neural networks.
+- Lab03: Explore the softmax function. This function is used in both Softmax Regression and in Neural Networks when solving Multiclass Classification problems.  
+- Lab04: Use a neural network to recognize the hand-written digits 0-9.

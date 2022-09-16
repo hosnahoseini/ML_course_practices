@@ -1,0 +1,6 @@
+- Lab01: Review the features of NumPy and Python
+- Lab02: Extend our regression model  routines to support multiple features and use numpy to vectorize implementations for speed and simplicity.
+- Lab03: Utilize  the multiple variables routines, run Gradient Descent on a data set with multiple features,    explore the impact of the *learning rate alpha* on gradient descent, improve performance of gradient descent by *feature scaling* using z-score normalization
+- Lab04: explore feature engineering and polynomial regression to fit very complicated, even very non-linear functions.
+- Lab05: Utilize  scikit-learn to implement linear regression using Gradient Descent
+- Lab06: Utilize  scikit-learn to implement linear regression using a close form solution based on the normal equation

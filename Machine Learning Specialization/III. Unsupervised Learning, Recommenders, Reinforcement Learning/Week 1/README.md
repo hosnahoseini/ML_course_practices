@@ -1,0 +1,2 @@
+- Lab01: use the K-means algorithm for image compression by reducing the number of colors that occur in an image to only those that are most common in that image.
+- Lab02: Implement the anomaly detection algorithm and apply it to detect failing servers on a network. 

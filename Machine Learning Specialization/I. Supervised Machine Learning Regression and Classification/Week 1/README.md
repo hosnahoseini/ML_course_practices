@@ -1,0 +1,4 @@
+- Lab01: Explore some of the tools that are used in this course. Python and Jupyter notebooks.
+- Lab03: Define linear regression model with one variable in code.
+- Lab04: Implement and explore cost function for linear regression with one variable. 
+- Lab05: Automate the process of optimizing $w$ and $b$ using gradient descent.

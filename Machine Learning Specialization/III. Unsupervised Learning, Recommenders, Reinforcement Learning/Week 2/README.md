@@ -1,0 +1,2 @@
+- Lab01:Implement collaborative filtering to build a recommender system for movies.
+- Lab02: Implement content-based filtering using a neural network to build a recommender system for movies. 

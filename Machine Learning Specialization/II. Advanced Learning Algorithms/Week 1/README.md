@@ -1,0 +1,4 @@
+- Lab01: Explore the inner workings of neurons/units and layers. In particular, introduce Tensorflow and demonstrate how these models are implemented in that framework.
+- Lab02: Build a small neural network using Tensorflow.
+- Lab03: Build a small neural network using Numpy.
+- Lab04: 
